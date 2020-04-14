@@ -1,5 +1,5 @@
 ### Date created
-4/13/2020
+4/13/2020 - April 2020
 ### Project Title
 Bikeshare Data
 ### Description
@@ -56,3 +56,5 @@ https://docs.scipy.org/doc/numpy-1.13.0/reference/index.html#reference
 http://scipy-lectures.org/intro/numpy/index.html
 
 https://pandas.pydata.org/pandas-docs/stable/
+
+https://docs.scipy.org/doc/numpy-1.13.0/user/index.html
