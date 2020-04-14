@@ -172,7 +172,7 @@ def user_stats(df):
         while True:
             print(df.iloc[i:i+5])
             i += 5
-            more_data = input('Would you like to see more data? Please enter yes or no: ').lower()
+            more_data = input('Would you like to see more data\nPlease enter yes or no: ').lower()
             if more_data not in ('yes', 'y'):
                 break
 
