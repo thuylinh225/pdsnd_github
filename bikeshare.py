@@ -30,7 +30,7 @@ def get_filters():
 
         month = input("Which month would you like? (all, january, february, ... , june): ").lower()
         if month not in valid_months:
-            print("Month must be in the list (all, january, february, ... , june)")
+            print("Month should be in the list (all, january, february, ... , june)")
             continue
         # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
         day = input("Which day of week would you like? (all, monday, tuesday, ... sunday): ").lower()
