@@ -165,7 +165,7 @@ def user_stats(df):
     print('-'*40)
 
 
-    user_input = input('\nWhat would you like to see the first 5 rows?\nPlease enter yes or no\n').lower()
+    user_input = input('\nWould you like to see the first 5 rows?\nPlease enter yes or no\n').lower()
 
     if user_input in ('yes', 'y'):
         i = 0
