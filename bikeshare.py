@@ -24,7 +24,7 @@ def get_filters():
 
         city = input("Which city would you like? (chicago, new york city, washington) ").lower()
         if city not in valid_cities:
-            print("City must be in the list (chicago, new york city, washington)")
+            print("City should be in the list (chicago, new york city, washington)")
             continue
        # TO DO: get user input for month (all, january, february, ... , june)
 
