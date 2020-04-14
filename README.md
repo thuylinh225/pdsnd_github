@@ -46,7 +46,11 @@ chicago.csv
 new_york_city.csv
 ### Credits
 https://github.com/joshnh/Git-Commands/blob/master/README.md
+
 https://docs.scipy.org/doc/numpy-1.13.0/contents.html
+
 https://docs.scipy.org/doc/numpy-1.13.0/reference/index.html#reference
+
 http://scipy-lectures.org/intro/numpy/index.html
+
 https://pandas.pydata.org/pandas-docs/stable/
