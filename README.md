@@ -5,7 +5,8 @@ Bikeshare Data
 ### Description
 The project includes data of bikeshare information of 3 cities: chicago, new york and washington.
 Used python3, pandas and numpy
-There are 7 def:
+There are 7 parts:
+
     def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
