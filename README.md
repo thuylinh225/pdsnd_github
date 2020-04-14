@@ -40,10 +40,12 @@ There are 7 parts:
     	 main()
 
 ### Files used
+
 bikeshare.py
 washington.csv
 chicago.csv
 new_york_city.csv
+
 ### Credits
 https://github.com/joshnh/Git-Commands/blob/master/README.md
 
