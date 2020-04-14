@@ -1,11 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
 4/13/2020
 ### Project Title
-Replace the Project Title
 Bikeshare Data
 ### Description
-Describe what your project is about and what it does
 The project includes data of bikeshare information of 3 cities: chicago, new york and washington.
 Used python3, pandas and numpy
 There are 7 def:
@@ -42,13 +39,11 @@ There are 7 def:
     	 main()
 
 ### Files used
-Include the files used
 bikeshare.py
 washington.csv
 chicago.csv
 new_york_city.csv
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 https://github.com/joshnh/Git-Commands/blob/master/README.md
 https://docs.scipy.org/doc/numpy-1.13.0/contents.html
 https://docs.scipy.org/doc/numpy-1.13.0/reference/index.html#reference
