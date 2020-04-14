@@ -35,7 +35,7 @@ def get_filters():
         # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
         day = input("Which day of week would you like? (all, monday, tuesday, ... sunday): ").lower()
         if day not in valid_days:
-            print("Day must be in the list (all, monday, tuesday, ... sunday)")
+            print("Day should be in the list (all, monday, tuesday, ... sunday)")
             continue
         break
     print('-'*40)
